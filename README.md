@@ -1,11 +1,10 @@
 # Website
 Golf Committee Website
 
+Purpose was to learn HTML and CSS.
+
 To open: download repository
 unzip folder
 double click "home" file.
 
 Currently a work in progress.
-Home page made, need to make the other pages.
-
-Functionalities needed: sign up feature, newsletter feature, tables.
