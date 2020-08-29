@@ -1,6 +1,4 @@
 # Website
-Golf Committee Website
-
 Purpose was to learn HTML and CSS.
 
 To open: download repository
